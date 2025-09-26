@@ -38,7 +38,7 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <button className='btn bg-[#FD6F00] text-white'>
-                    <a href='/Mumair_UIUX_Designer_CV.pdf'
+                    <a href='/cv.pdf'
                         download="Mumair_CV.pdf"
                     >
                         Download CV</a>
